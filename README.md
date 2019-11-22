@@ -1,2 +1,9 @@
-# Online-News-Popularity
-The dataset has 39644 number of instances and 61 attributes. There are no missing values.  The problem is a regression problem and a classification problem as well. The objective in a regression problem is to predict the number of shares (target column) of an article. Whereas in a classification problem, i have set the threshold of 1400 shares (below 1400 shares would be an Unpopular Article and above 1400 shares would be a Popular Article), so we need to predict on this basis. 
+# OnlineNewsPopularity
+Individual Capstone Project
+
+
+My dataset is provided by UCI Machine Learning Lab, representing a heterogeneous set of features about 2 years of articles published by Mashable. It contains 39797 instances and 61 attributes (58 predictive attributes, 2 non-predictive, 1 target field).  The following steps below are the procedures approaching my goal:
+
+•	Preprocess the dataset 
+•	Use classification algorithms to build classifiers
+•	Use max voting learning to predict and conclude the accuracy.
